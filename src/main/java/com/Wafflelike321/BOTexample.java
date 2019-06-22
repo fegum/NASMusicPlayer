@@ -23,7 +23,7 @@ public class BOTexample {
 
 
     public static void main(String[] args){
-        final DiscordClient client = new DiscordClientBuilder(args[0]).build();
+        final DiscordClient client = new DiscordClientBuilder(System.getenv('Botkey')).build();
 
         // Creates AudioPlayer instances and translates URLs to AudioTrack instances
         final AudioPlayerManager playerManager = new DefaultAudioPlayerManager();
