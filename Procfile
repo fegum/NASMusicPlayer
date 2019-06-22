@@ -1,1 +1,2 @@
-worker: java -jar out/artifacts/NASMusicPlayer_jar/NASMusicPlayer.jar
+worker: java -jar target/bot-1.0-jar-with-dependencies.jar
+
