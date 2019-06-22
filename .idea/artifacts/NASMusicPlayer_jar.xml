@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="NASMusicPlayer:jar">
+  <artifact type="jar" build-on-make="true" name="NASMusicPlayer:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/NASMusicPlayer_jar</output-path>
     <root id="archive" name="NASMusicPlayer.jar">
       <element id="module-output" name="NASMusicPlayer" />
