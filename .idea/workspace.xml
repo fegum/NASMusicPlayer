@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Wafflelike321/BOTexample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="146">
+              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -224,7 +224,6 @@
       <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home" />
       <option name="MAIN_CLASS_NAME" value="com.Wafflelike321.BOTexample" />
       <module name="NASMusicPlayer" />
-      <option name="PROGRAM_PARAMETERS" value="NTg2NDcyMTc5OTQ4ODQ3MTA1.XPuJDQ.OwrU9B-Ju7onnIpXlFsw15cgkn4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Wafflelike321.*" />
@@ -361,8 +360,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Wafflelike321/BOTexample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="146">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
