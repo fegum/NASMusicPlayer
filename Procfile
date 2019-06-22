@@ -1,1 +1,1 @@
-worker: java -jar target/NASMusicPlayer.jar
+worker: java -jar out/artifacts/NASMusicPlayer_jar/NASMusicPlayer.jar
